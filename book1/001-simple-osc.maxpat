@@ -25,17 +25,22 @@
 			}
 , 			{
 				"box" : 				{
+					"bgcolor" : [ 0.101961, 0.121569, 0.172549, 1.0 ],
 					"fontface" : 0,
-					"fontname" : "Arial",
-					"fontsize" : 12.0,
+					"fontname" : "Arial Bold",
+					"fontsize" : 10.0,
+					"ft1" : 5.0,
 					"id" : "obj-15",
+					"ignoreclick" : 1,
+					"interval" : 50.0,
 					"maxclass" : "number~",
 					"mode" : 2,
 					"numinlets" : 2,
 					"numoutlets" : 2,
 					"outlettype" : [ "signal", "float" ],
-					"patching_rect" : [ 333.0, 355.0, 56.0, 22.0 ],
-					"sig" : 0.0
+					"patching_rect" : [ 333.0, 355.0, 55.0, 20.0 ],
+					"sig" : 0.0,
+					"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 				}
 
 			}
@@ -98,7 +103,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "signal", "" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 439.0, 202.0, 22.0, 140.0 ]
+					"patching_rect" : [ 439.0, 192.0, 22.0, 140.0 ]
 				}
 
 			}
