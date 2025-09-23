@@ -143,7 +143,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 559.0, 305.0, 150.0, 47.0 ],
+					"patching_rect" : [ 559.0, 305.0, 151.0, 47.0 ],
 					"text" : "Here, triangle wave needs to 0 to 1 phasor, 0.5 is the sort of duty cycle"
 				}
 
@@ -399,13 +399,6 @@
 				"patchline" : 				{
 					"destination" : [ "obj-25", 0 ],
 					"source" : [ "obj-24", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-17", 1 ],
-					"source" : [ "obj-25", 0 ]
 				}
 
 			}
